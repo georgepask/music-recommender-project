@@ -15,13 +15,13 @@ To train our recommendation system, we use a dataset provided by Kaggle containi
 
 ### Data Cleanup and EDA
 
-<a href="url"><img src="images/num_songs.png"  height="450" width="600" ></a>
+<a href="url"><img src="images/num_songs.png"  height="550" width="800" ></a>
 
 The data is incredibly clean, and ther are no missing values. 
 
 During the EDA portion of my work, I focused on exploring how music has changed over the years/decades. I was mainly interested in seeing how popular music from different years is and whether we have sufficient data from these years to build a recommender system. 
 
-<a href="url"><img src="images/popularity.png"  height="550" width="800" ></a>
+<a href="url"><img src="images/popularity.png"  height="550" width="960" ></a>
 
 It appeared that songs from the late 1990s and early 2000s had amassed the highest popularity. For my main test song, I picked Missy Elliott's "The Rain (Supa Dupa Fly)." It's a song that my clients are currently preparing for release, and it happens to be from the same era. 
 
