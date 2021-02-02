@@ -48,3 +48,5 @@ I will use both recommenders to pull recommendations for my client, then compare
 * Add the ability to recommend based on multiple songs as input
 * Explore if the recommenders are more accurate for particular genres. Based on random trials, they deliver more accurate recommendations for hip-hop and R&B songs.
 
+### PRESENTATION
+[Download PDF here](https://drive.google.com/file/d/1mzMaoNG_9tUptCLS7oR-IZLcmI1YT44s/view?usp=sharing)
